@@ -1,3 +1,4 @@
+
 EggTimer - Final Code 
 ============================================================================
 
@@ -30,4 +31,7 @@ Getting Started
 1. Download
 2. Swtich to start branch
 3. Run the app.
+
+=======
+# EggTimer
 
